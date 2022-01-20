@@ -1,0 +1,15 @@
+C:\Users\Libman\Desktop\testerAPI\testarrayloop\bin\Debug\net6.0\testarrayloop.exe
+C:\Users\Libman\Desktop\testerAPI\testarrayloop\bin\Debug\net6.0\testarrayloop.deps.json
+C:\Users\Libman\Desktop\testerAPI\testarrayloop\bin\Debug\net6.0\testarrayloop.runtimeconfig.json
+C:\Users\Libman\Desktop\testerAPI\testarrayloop\bin\Debug\net6.0\testarrayloop.dll
+C:\Users\Libman\Desktop\testerAPI\testarrayloop\bin\Debug\net6.0\ref\testarrayloop.dll
+C:\Users\Libman\Desktop\testerAPI\testarrayloop\bin\Debug\net6.0\testarrayloop.pdb
+C:\Users\Libman\Desktop\testerAPI\testarrayloop\obj\Debug\net6.0\testarrayloop.csproj.AssemblyReference.cache
+C:\Users\Libman\Desktop\testerAPI\testarrayloop\obj\Debug\net6.0\testarrayloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Libman\Desktop\testerAPI\testarrayloop\obj\Debug\net6.0\testarrayloop.AssemblyInfoInputs.cache
+C:\Users\Libman\Desktop\testerAPI\testarrayloop\obj\Debug\net6.0\testarrayloop.AssemblyInfo.cs
+C:\Users\Libman\Desktop\testerAPI\testarrayloop\obj\Debug\net6.0\testarrayloop.csproj.CoreCompileInputs.cache
+C:\Users\Libman\Desktop\testerAPI\testarrayloop\obj\Debug\net6.0\testarrayloop.dll
+C:\Users\Libman\Desktop\testerAPI\testarrayloop\obj\Debug\net6.0\ref\testarrayloop.dll
+C:\Users\Libman\Desktop\testerAPI\testarrayloop\obj\Debug\net6.0\testarrayloop.pdb
+C:\Users\Libman\Desktop\testerAPI\testarrayloop\obj\Debug\net6.0\testarrayloop.genruntimeconfig.cache

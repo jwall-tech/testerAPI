@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "babbb051-8ceb-4414-9fb9-7df80a93e2f1": {
+      "ProjectGuid": "babbb051-8ceb-4414-9fb9-7df80a93e2f1",
+      "DisplayName": "TesterAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

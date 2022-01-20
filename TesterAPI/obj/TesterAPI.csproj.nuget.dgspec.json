@@ -64,6 +64,14 @@
               "target": "Package",
               "version": "[1.2.3, )"
             },
+            "Okta.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Okta.Sdk": {
+              "target": "Package",
+              "version": "[5.3.2, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
