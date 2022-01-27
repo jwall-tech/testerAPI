@@ -36,13 +36,15 @@ builder.Services.AddAuthentication()
            options.Scope.Add("openid");
            options.Scope.Add("profile");
            options.SaveTokens = true;
+           options.CallbackPath = "/authentication/login-callback";
            options.TokenValidationParameters = new TokenValidationParameters
            {
                NameClaimType = "name",
                RoleClaimType = "groups",
                ValidateIssuer = true
            };
-       });
+       })
+    .AddCookie();
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
 
