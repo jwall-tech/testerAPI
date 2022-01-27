@@ -1,21 +1,21 @@
-﻿using Microsoft.AspNetCore.Authentication.Cookies;
-using Microsoft.AspNetCore.Authentication.OpenIdConnect;
-using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 
 namespace TesterAPI.Controllers
 {
-    public class HomeController
+    [Route("")]
+
+    public class HomeController : Controller
     {
-        [Authorize(Roles = "Everyone")]
-        public IActionResult Everyone()
+        [HttpGet]
+        public ActionResult Index()
         {
             return View();
         }
-
-        private IActionResult View()
+        
+        [HttpGet("privacy")]
+        public ActionResult Privacy()
         {
-            throw new NotImplementedException();
+            return View("Privacy");
         }
     }
 }
