@@ -39,7 +39,7 @@ namespace TesterAPI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            /* Authenticiation
+            // Authenticiation
             services.AddAuthentication(options =>
             {
                 options.DefaultScheme = CookieAuthenticationDefaults.AuthenticationScheme;
@@ -64,7 +64,7 @@ namespace TesterAPI
                     RoleClaimType = "groups",
                     ValidateIssuer = true
                 };
-            });*/
+            });
 
             // Authorization
             services.AddAuthorization();

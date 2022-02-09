@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JF72qkH6KHTWlzSr7mXBEKO/DrIjolUzYGCzQaTxlCE=",
+  "Hash": "R6jvU4nxgjd6Pve+1Mx4cbuZCA2YKtEIY5HJYT5Ty/Q=",
   "Source": "BlazorApp1.Server",
   "BasePath": "_content/BlazorApp1.Server",
   "Mode": "Default",
@@ -8121,6 +8121,23 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Identity": "C:\\Users\\Libman\\Desktop\\testerAPI\\BLAZORtester\\BlazorApp1\\Client\\wwwroot\\css\\nicepage.css",
+      "SourceId": "BlazorApp1.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Libman\\Desktop\\testerAPI\\BLAZORtester\\BlazorApp1\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/nicepage.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\nicepage.css"
+    },
+    {
       "Identity": "C:\\Users\\Libman\\Desktop\\testerAPI\\BLAZORtester\\BlazorApp1\\Client\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "BlazorApp1.Client",
       "SourceType": "Project",
@@ -8272,6 +8289,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
+    },
+    {
+      "Identity": "C:\\Users\\Libman\\Desktop\\testerAPI\\BLAZORtester\\BlazorApp1\\Client\\wwwroot\\css\\User-Profile.css",
+      "SourceId": "BlazorApp1.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Libman\\Desktop\\testerAPI\\BLAZORtester\\BlazorApp1\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/User-Profile.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\User-Profile.css"
     },
     {
       "Identity": "C:\\Users\\Libman\\Desktop\\testerAPI\\BLAZORtester\\BlazorApp1\\Client\\wwwroot\\favicon.ico",

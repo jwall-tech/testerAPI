@@ -31,12 +31,16 @@ builder.Services.AddAuthentication()
            options.RequireHttpsMetadata = true;
            options.ClientId = config["Okta:ClientId"];
            options.ClientSecret = config["Okta:ClientSecret"];
-           options.ResponseType = OpenIdConnectResponseType.Code;
+           options.ResponseType = OpenIdConnectResponseType.Token;
            options.GetClaimsFromUserInfoEndpoint = true;
            options.Scope.Add("openid");
            options.Scope.Add("profile");
+           options.Scope.Add("id_token");
+           options.Scope.Add("code");
            options.SaveTokens = true;
            options.CallbackPath = "/authentication/login-callback";
+           options.SignedOutRedirectUri = config["Okta:PostLogoutRedirectUri"];
+           options.UsePkce = true;
            options.TokenValidationParameters = new TokenValidationParameters
            {
                NameClaimType = "name",
